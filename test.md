@@ -80,8 +80,3 @@ Data are extracted using R-JDBC connection protocol to OBIEE. Logical SQL is iss
 ## Built by
 
 * [DOB Analytics and Data Science Team](https://www1.nyc.gov/site/buildings/about/metrics-reports.page) - If you have questions or feedback, comment here on github or email us at [Analytics@buildings.nyc.gov](mailto:analytics@buildings.nyc.gov). (Note: We're hiring a web developer!)
-
-## Acknowledgments
-
-* Inspired by [NYC Planning Labs](https://planninglabs.nyc/)
-
